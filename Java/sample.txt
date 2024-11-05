@@ -1,0 +1,3 @@
+Hello World..
+I'm Chitti.. The Robot
+speed 1 Tera Hertz, Memory ! Zeeta Byte !!!
