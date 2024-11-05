@@ -1,4 +1,4 @@
-package assignment;
+package src.assignment;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -98,7 +98,7 @@ public class assignmentCRUDoperations {
                     System.out.println("Please Try Again !");
             }
         }
-
+//scanner close
         scanner.close();
     }
 }
